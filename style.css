@@ -7,7 +7,15 @@
 }
 
 body {
-    background-color: var(--green5);
+    background-color: var(--green1);
     text-align: center;
-    color: var(--green1);
+    color: var(--green5);
+}
+
+h1 {
+    font-family: 'Courier New', Courier, monospace;
+}
+
+p {
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
